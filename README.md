@@ -5,6 +5,9 @@ Tecnologias usadas
 
 
 PostgreeSQL
+
 React.js
+
 Typescript
+
 Next.js
